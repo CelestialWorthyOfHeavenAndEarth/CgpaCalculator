@@ -1,3 +1,21 @@
+/*   
+    Mini Project Name : CGPA CALCULATOR
+    Team members:
+     1)Y.Aswini kumar-RA2311003011159
+     2)B.Lokesh Praman-RA2311003011220
+*/
+
+
+/*
+    File Name  :CgpaCalculator.c
+    purpose    :To find the overall cgpa of students.
+    Author name:Y.Aswini kumar
+                B.Lokesh praman
+    created by  :Y.Aswini kumar
+                B.Lokesh praman
+    updated on  :17/11/2023
+*/
+
 #include <stdio.h>
 #include <string.h>
 
