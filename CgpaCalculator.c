@@ -20,7 +20,8 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
+int main() 
+{
     int totalSubjects;
     printf("Enter the total number of subjects: ");
     scanf("%d", &totalSubjects);
