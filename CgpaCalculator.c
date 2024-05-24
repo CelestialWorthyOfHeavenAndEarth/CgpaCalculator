@@ -1,10 +1,4 @@
 
-/*   
-    Mini Project Name : CGPA CALCULATOR
-    Team members:
-     1)Y.Aswini kumar-RA2311003011159
-     2)B.Lokesh Praman-RA2311003011220
-*/
 
 
 /*
